@@ -1,3 +1,4 @@
 # Live
-Play Earn Create
+Play Earn Create:
+
 Go to the live version to get started!
